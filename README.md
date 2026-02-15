@@ -3,7 +3,7 @@
 <p>This repository contains the source code for the personal portfolio website of <strong>Farrukh Nizam Arain</strong>, a Data Science Professional based in Manchester, UK. The site showcases his professional summary, educational background, work experience, skills, certifications, and portfolio projects.</p>
 
 <p align="left">
-  <a href="https://farrukhna.github.io/"><strong>🌐 Live Website</strong></a>
+  <a href="https://farrukhnizamarain.github.io/"><strong>🌐 Live Website</strong></a>
 </p>
 
 <hr>
